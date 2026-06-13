@@ -1,0 +1,6 @@
+anomaly_id,fault,recovery,tail
+0,0,0,1
+1,4,4,0
+2,1,6,0
+3,7,5,0
+4,4,5,0
